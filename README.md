@@ -1,11 +1,10 @@
-## Olá!! Eu sou a Bhianca Almeida/Bhalmeida 👋
+## Oii, euu sou a Bhianca Almeida/Bhalmeida 👋
+É um prazer tê-lo(a) aqui!
 
 - 🔭 Sou desenvolvedora/programadora.
-- 🌱 Estudando Gestão de Tecnologia da Infotmação.
-- 📫 Contate-me no email: balmeidaa0@gmail.com
-- 😄 Pronouns: ela/dela.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhalmeida)](https://github.com/Bhalmeida/github-readme-stats)
+- 🌱 Estudando Gestão de Tecnologia da Informação.
+- Estou no último semestre da faculdade e estou muito animada para começar a colocar em prática os meus conhecimentos!
+- 📫 Contate-me no email: bhiancacristinne09@gmail.com
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +19,7 @@
 
 <div> 
   
-  <a href = "mailto:balmeidaa0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:bhiancacristinne09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bhianca-almeida-4a09812b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
