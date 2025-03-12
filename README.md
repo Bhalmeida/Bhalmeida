@@ -1,4 +1,4 @@
-## Oii, euu sou a Bhianca Almeida/Bhalmeida 👋
+## Oii, eu sou a Bhianca Almeida/Bhalmeida 👋
 É um prazer tê-lo(a) aqui!
 
 - 🔭 Sou desenvolvedora/programadora.
